@@ -1,5 +1,5 @@
 # Laraspotify
-Fitri Syukriasari - 2014150097
+Fitri Syukriasari - 2014150097 <br>
 Gustiani Salimah - 2014150088
 # Install
 rename .env.example to .env <br>
